@@ -1,0 +1,3261 @@
+[
+  {
+    "created_at": "Sat Nov 05 16:31:13 +0000 2016",
+    "id": 794940142867902500,
+    "id_str": "794940142867902465",
+    "text": "RT @OFA: \"Thanks to the Affordable Care Act, your coverage is better today than it was before.\"\n\nWatch the weekly address: https://t.co/Pfk…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "OFA",
+          "name": "OFA",
+          "id": 15667802,
+          "id_str": "15667802",
+          "indices": [
+            3,
+            7
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 05 16:26:16 +0000 2016",
+      "id": 794938896991797200,
+      "id_str": "794938896991797248",
+      "text": "\"Thanks to the Affordable Care Act, your coverage is better today than it was before.\"\n\nWatch the weekly address: https://t.co/Pfkzl7Nhc0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Pfkzl7Nhc0",
+            "expanded_url": "http://ofa.bo/2fG3Tv1",
+            "display_url": "ofa.bo/2fG3Tv1",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15667802,
+        "id_str": "15667802",
+        "name": "OFA",
+        "screen_name": "OFA",
+        "location": "Chicago, IL",
+        "description": "This account is the official destination for news and updates from Organizing for Action.",
+        "url": "http://t.co/O5Woad92z1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/O5Woad92z1",
+                "expanded_url": "http://www.barackobama.com",
+                "display_url": "barackobama.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 318033,
+        "friends_count": 67,
+        "listed_count": 3130,
+        "created_at": "Wed Jul 30 23:22:24 +0000 2008",
+        "favourites_count": 41,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 10137,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0C3F42",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451795001010159616/AkukmxEu.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451795001010159616/AkukmxEu.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/738742721918074880/kh62zY3w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/738742721918074880/kh62zY3w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15667802/1477344372",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 996,
+      "favorite_count": 5370,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 996,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 05 15:38:53 +0000 2016",
+    "id": 794926969829920800,
+    "id_str": "794926969829920768",
+    "text": "In the weekly address, President Obama discusses what #Obamacare has done to improve health care. https://t.co/VdQlyrSZhx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            54,
+            64
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VdQlyrSZhx",
+          "expanded_url": "http://ofa.bo/2ebbyAo",
+          "display_url": "ofa.bo/2ebbyAo",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1884,
+    "favorite_count": 10411,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 04 22:16:14 +0000 2016",
+    "id": 794664579834015700,
+    "id_str": "794664579834015745",
+    "text": "Let's keep working to keep our economy on a better, stronger course. https://t.co/bV2BVjyj7a",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 794662466848456700,
+          "id_str": "794662466848456704",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+          "url": "https://t.co/bV2BVjyj7a",
+          "display_url": "pic.twitter.com/bV2BVjyj7a",
+          "expanded_url": "http://twitter.com/BarackObama/status/794664579834015745/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 794662466848456700,
+          "id_str": "794662466848456704",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cwc1TaTWgAAmkDm.jpg",
+          "url": "https://t.co/bV2BVjyj7a",
+          "display_url": "pic.twitter.com/bV2BVjyj7a",
+          "expanded_url": "http://twitter.com/BarackObama/status/794664579834015745/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4429,
+    "favorite_count": 17948,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 04 18:25:16 +0000 2016",
+    "id": 794606453197774800,
+    "id_str": "794606453197774849",
+    "text": "The landmark #ParisAgreement enters into force today—we must keep up the momentum to #ActOnClimate. https://t.co/Cyw5Udaoro",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ParisAgreement",
+          "indices": [
+            13,
+            28
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            85,
+            98
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Cyw5Udaoro",
+          "expanded_url": "http://ofa.bo/2fn8oHC",
+          "display_url": "ofa.bo/2fn8oHC",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3070,
+    "favorite_count": 8742,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 04 16:12:12 +0000 2016",
+    "id": 794572967258640400,
+    "id_str": "794572967258640384",
+    "text": "The economy added 161,000 jobs in October, and wages are up 2.8 percent over the past year. https://t.co/pJxjgLnjCt #JobsReport",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "JobsReport",
+          "indices": [
+            116,
+            127
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pJxjgLnjCt",
+          "expanded_url": "http://ofa.bo/2e8XF5N",
+          "display_url": "ofa.bo/2e8XF5N",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2152,
+    "favorite_count": 6788,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 03 21:02:36 +0000 2016",
+    "id": 794283659079520300,
+    "id_str": "794283659079520256",
+    "text": "There are a lot of plans out there. Check your options and lock in the one that's best for you: https://t.co/buFY9ozDz4 #GetCovered",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GetCovered",
+          "indices": [
+            120,
+            131
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/buFY9ozDz4",
+          "expanded_url": "http://ofa.bo/2eZtYDp",
+          "display_url": "ofa.bo/2eZtYDp",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 588,
+    "favorite_count": 2785,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 03 19:08:49 +0000 2016",
+    "id": 794255026570993700,
+    "id_str": "794255026570993664",
+    "text": "The positive impact of #Obamacare is undeniable, but there's one big factor holding many states back: https://t.co/7XebIdRX34",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            23,
+            33
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7XebIdRX34",
+          "expanded_url": "http://ofa.bo/2feEipF",
+          "display_url": "ofa.bo/2feEipF",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 959,
+    "favorite_count": 4547,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Nov 03 17:22:00 +0000 2016",
+    "id": 794228145310154800,
+    "id_str": "794228145310154752",
+    "text": "RT @POTUS: It happened: @Cubs win World Series. That's change even this South Sider can believe in. Want to come to the White House before…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "POTUS",
+          "name": "President Obama",
+          "id": 1536791610,
+          "id_str": "1536791610",
+          "indices": [
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "Cubs",
+          "name": "Chicago Cubs",
+          "id": 41144996,
+          "id_str": "41144996",
+          "indices": [
+            24,
+            29
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 03 06:03:56 +0000 2016",
+      "id": 794057504871346200,
+      "id_str": "794057504871346176",
+      "text": "It happened: @Cubs win World Series. That's change even this South Sider can believe in. Want to come to the White House before I leave?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Cubs",
+            "name": "Chicago Cubs",
+            "id": 41144996,
+            "id_str": "41144996",
+            "indices": [
+              13,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1536791610,
+        "id_str": "1536791610",
+        "name": "President Obama",
+        "screen_name": "POTUS",
+        "location": "Washington, D.C.",
+        "description": "Dad, husband, and 44th President of the United States. Tweets may be archived: http://t.co/eVVzoATsAR.",
+        "url": "http://t.co/IxLjEAKXX4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/IxLjEAKXX4",
+                "expanded_url": "http://WhiteHouse.gov",
+                "display_url": "WhiteHouse.gov",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/eVVzoATsAR",
+                "expanded_url": "http://wh.gov/privacy",
+                "display_url": "wh.gov/privacy",
+                "indices": [
+                  79,
+                  101
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12027446,
+        "friends_count": 72,
+        "listed_count": 21312,
+        "created_at": "Fri Jun 21 16:02:21 +0000 2013",
+        "favourites_count": 3,
+        "utc_offset": -14400,
+        "time_zone": "Atlantic Time (Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 321,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600314410003865600/laIuu4bB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536791610/1431961112",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 74859,
+      "favorite_count": 272212,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 74859,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 02 18:22:43 +0000 2016",
+    "id": 793881038862757900,
+    "id_str": "793881038862757888",
+    "text": "Tens of millions of Americans have benefited from #Obamacare. Make sure you're one of them. #GetCovered https://t.co/e1KoXcPtpU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            50,
+            60
+          ]
+        },
+        {
+          "text": "GetCovered",
+          "indices": [
+            92,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 793879390354407400,
+          "id_str": "793879390354407424",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwRtGXCUAAAgz2P.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwRtGXCUAAAgz2P.jpg",
+          "url": "https://t.co/e1KoXcPtpU",
+          "display_url": "pic.twitter.com/e1KoXcPtpU",
+          "expanded_url": "http://twitter.com/BarackObama/status/793881038862757888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1147,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 672,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 793879390354407400,
+          "id_str": "793879390354407424",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwRtGXCUAAAgz2P.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwRtGXCUAAAgz2P.jpg",
+          "url": "https://t.co/e1KoXcPtpU",
+          "display_url": "pic.twitter.com/e1KoXcPtpU",
+          "expanded_url": "http://twitter.com/BarackObama/status/793881038862757888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1147,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 672,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1140,
+    "favorite_count": 5250,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 02 15:13:34 +0000 2016",
+    "id": 793833434850349000,
+    "id_str": "793833434850349056",
+    "text": "Thanks to #Obamacare, quality health care is available to everyone. The marketplace is now open—make sure you and y… https://t.co/89gl6pzMGD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            10,
+            20
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/89gl6pzMGD",
+          "expanded_url": "https://twitter.com/i/web/status/793833434850349056",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2021,
+    "favorite_count": 8383,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 02 00:15:41 +0000 2016",
+    "id": 793607477057228800,
+    "id_str": "793607477057228800",
+    "text": "RT @lacasablanca: La típica Latina tarda 22 meses en ganar lo que un hombre blanco gana en 12 meses. Tenemos que cerrar la brecha salarial.…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "lacasablanca",
+          "name": "La Casa Blanca",
+          "id": 78138151,
+          "id_str": "78138151",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 01 22:00:42 +0000 2016",
+      "id": 793573507867091000,
+      "id_str": "793573507867090944",
+      "text": "La típica Latina tarda 22 meses en ganar lo que un hombre blanco gana en 12 meses. Tenemos que cerrar la brecha sal… https://t.co/9k37l5NR91",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9k37l5NR91",
+            "expanded_url": "https://twitter.com/i/web/status/793573507867090944",
+            "display_url": "twitter.com/i/web/status/7…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 78138151,
+        "id_str": "78138151",
+        "name": "La Casa Blanca",
+        "screen_name": "lacasablanca",
+        "location": "Washington, DC, EE.UU.",
+        "description": "Cuenta oficial de la Casa Blanca. Comentarios recibidos a través de esta página están sujetos a la Ley de Archivos Presidenciales. Vea http://t.co/5lIlUh1L9N",
+        "url": "http://t.co/t7qMZu7GTp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/t7qMZu7GTp",
+                "expanded_url": "http://wh.gov/es",
+                "display_url": "wh.gov/es",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/5lIlUh1L9N",
+                "expanded_url": "http://wh.gov/privacidad/",
+                "display_url": "wh.gov/privacidad/",
+                "indices": [
+                  135,
+                  157
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 102897,
+        "friends_count": 182,
+        "listed_count": 1342,
+        "created_at": "Mon Sep 28 22:16:35 +0000 2009",
+        "favourites_count": 84,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 5511,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F2F2F2",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/45162819/wh_twitter_es.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/45162819/wh_twitter_es.JPG",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/616360382911754241/4Tfqcfie_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/616360382911754241/4Tfqcfie_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/78138151/1458752466",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "E1E8EE",
+        "profile_sidebar_fill_color": "E1E8EE",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 799,
+      "favorite_count": 2490,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "es"
+    },
+    "is_quote_status": false,
+    "retweet_count": 799,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "es"
+  },
+  {
+    "created_at": "Tue Nov 01 22:26:14 +0000 2016",
+    "id": 793579933201231900,
+    "id_str": "793579933201231880",
+    "text": "RT @WhiteHouse: On #LatinaEqualPay Day, we mark the work that remains to ensure that all Americans receive equal pay for equal work. https:…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "LatinaEqualPay",
+          "indices": [
+            19,
+            34
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "WhiteHouse",
+          "name": "The White House",
+          "id": 30313925,
+          "id_str": "30313925",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 01 20:31:59 +0000 2016",
+      "id": 793551178554630100,
+      "id_str": "793551178554630145",
+      "text": "On #LatinaEqualPay Day, we mark the work that remains to ensure that all Americans receive equal pay for equal work. https://t.co/4K288RHVVc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "LatinaEqualPay",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 793550867014291500,
+            "id_str": "793550867014291456",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwNCTyOXEAALyjA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwNCTyOXEAALyjA.jpg",
+            "url": "https://t.co/4K288RHVVc",
+            "display_url": "pic.twitter.com/4K288RHVVc",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/793551178554630145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1433,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 840,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 476,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 793550867014291500,
+            "id_str": "793550867014291456",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwNCTyOXEAALyjA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwNCTyOXEAALyjA.jpg",
+            "url": "https://t.co/4K288RHVVc",
+            "display_url": "pic.twitter.com/4K288RHVVc",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/793551178554630145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1433,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 840,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 476,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 30313925,
+        "id_str": "30313925",
+        "name": "The White House",
+        "screen_name": "WhiteHouse",
+        "location": "Washington, DC",
+        "description": "Follow for the latest from President Obama and his Administration. For tweets from the President, follow @POTUS. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+        "url": "http://t.co/NgUd6eRXCR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/NgUd6eRXCR",
+                "expanded_url": "http://whitehouse.gov",
+                "display_url": "whitehouse.gov",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/eVVzoBb3Zr",
+                "expanded_url": "http://wh.gov/privacy",
+                "display_url": "wh.gov/privacy",
+                "indices": [
+                  137,
+                  160
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12528442,
+        "friends_count": 224,
+        "listed_count": 67115,
+        "created_at": "Fri Apr 10 21:10:30 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 27462,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "D0CFCB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000013910263/9426106939082a6e8935fc31fe5efd31.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000013910263/9426106939082a6e8935fc31fe5efd31.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/747463206759698432/c8cVVWhj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/747463206759698432/c8cVVWhj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30313925/1467725763",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E1E8EE",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1739,
+      "favorite_count": 4865,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1739,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 01 20:17:35 +0000 2016",
+    "id": 793547555204280300,
+    "id_str": "793547555204280320",
+    "text": "Community organizing never goes out of style. Shop now: https://t.co/LXEbQdKLLT https://t.co/E56ofoU36i",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LXEbQdKLLT",
+          "expanded_url": "http://ofa.bo/2feFszZ",
+          "display_url": "ofa.bo/2feFszZ",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 793544772728217600,
+          "id_str": "793544772728217600",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwM8xDPVYAAHFHd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwM8xDPVYAAHFHd.jpg",
+          "url": "https://t.co/E56ofoU36i",
+          "display_url": "pic.twitter.com/E56ofoU36i",
+          "expanded_url": "http://twitter.com/BarackObama/status/793547555204280320/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 793544772728217600,
+          "id_str": "793544772728217600",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwM8xDPVYAAHFHd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwM8xDPVYAAHFHd.jpg",
+          "url": "https://t.co/E56ofoU36i",
+          "display_url": "pic.twitter.com/E56ofoU36i",
+          "expanded_url": "http://twitter.com/BarackObama/status/793547555204280320/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 356,
+    "favorite_count": 2027,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 01 17:55:30 +0000 2016",
+    "id": 793511799643451400,
+    "id_str": "793511799643451392",
+    "text": "With #Obamacare, people can focus on treatment for pre-existing conditions without the fear of coverage being cappe… https://t.co/jvdFY87XBu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            5,
+            15
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jvdFY87XBu",
+          "expanded_url": "https://twitter.com/i/web/status/793511799643451392",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1576,
+    "favorite_count": 6590,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Nov 01 15:54:09 +0000 2016",
+    "id": 793481260370792400,
+    "id_str": "793481260370792449",
+    "text": "The Obamacare marketplace is now open. If you're uninsured, now is the time to shop for a plan and #GetCovered.… https://t.co/Spjlga4eTT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GetCovered",
+          "indices": [
+            99,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Spjlga4eTT",
+          "expanded_url": "https://twitter.com/i/web/status/793481260370792449",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 672,
+    "favorite_count": 2591,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 31 22:17:32 +0000 2016",
+    "id": 793215353656488000,
+    "id_str": "793215353656487936",
+    "text": "RT @FLOTUS: Open enrollment starts tomorrow! Check out your options at https://t.co/dg57hwz5of and share your #GetCovered story. https://t.…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GetCovered",
+          "indices": [
+            110,
+            121
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "FLOTUS",
+          "name": "The First Lady",
+          "id": 1093090866,
+          "id_str": "1093090866",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dg57hwz5of",
+          "expanded_url": "http://HealthCare.gov",
+          "display_url": "HealthCare.gov",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 31 22:05:12 +0000 2016",
+      "id": 793212249863139300,
+      "id_str": "793212249863139328",
+      "text": "Open enrollment starts tomorrow! Check out your options at https://t.co/dg57hwz5of and share your #GetCovered story. https://t.co/QycOVYhOz9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GetCovered",
+            "indices": [
+              98,
+              109
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dg57hwz5of",
+            "expanded_url": "http://HealthCare.gov",
+            "display_url": "HealthCare.gov",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 793211366869987300,
+            "id_str": "793211366869987329",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwIOTnHUsAA_Dhi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwIOTnHUsAA_Dhi.jpg",
+            "url": "https://t.co/QycOVYhOz9",
+            "display_url": "pic.twitter.com/QycOVYhOz9",
+            "expanded_url": "http://twitter.com/FLOTUS/status/793212249863139328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 793211366869987300,
+            "id_str": "793211366869987329",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CwIOTnHUsAA_Dhi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CwIOTnHUsAA_Dhi.jpg",
+            "url": "https://t.co/QycOVYhOz9",
+            "display_url": "pic.twitter.com/QycOVYhOz9",
+            "expanded_url": "http://twitter.com/FLOTUS/status/793212249863139328/photo/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 115882,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/793211366869987329/vid/640x360/yuxy11uC46yHQIGW.mp4"
+                },
+                {
+                  "bitrate": 320000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/793211366869987329/vid/320x180/Fp0Z_rsxA-y-KSuf.mp4"
+                },
+                {
+                  "content_type": "application/dash+xml",
+                  "url": "https://video.twimg.com/amplify_video/793211366869987329/pl/f9Tl2WqBgbA0FXSU.mpd"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/793211366869987329/pl/f9Tl2WqBgbA0FXSU.m3u8"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/793211366869987329/vid/1280x720/eJ3Yn4tWQ9t39h7e.mp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "title": "#GetCovered: HealthCare.gov",
+              "description": "Check out your health care options and spread the word to loved ones for peace of mind ahead of the December 15 deadline for coverage beginning January 1. ",
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "http://HealthCare.gov"
+                }
+              },
+              "embeddable": true,
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093090866,
+        "id_str": "1093090866",
+        "name": "The First Lady",
+        "screen_name": "FLOTUS",
+        "location": "Washington, DC",
+        "description": "This account is run by the Office of First Lady Michelle Obama. Tweets from the First Lady are signed –mo. Tweets may be archived. More at https://t.co/eVVzoBb3Zr",
+        "url": "https://t.co/RvRZspIgiE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/RvRZspIgiE",
+                "expanded_url": "http://www.whitehouse.gov",
+                "display_url": "whitehouse.gov",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/eVVzoBb3Zr",
+                "expanded_url": "http://wh.gov/privacy",
+                "display_url": "wh.gov/privacy",
+                "indices": [
+                  139,
+                  162
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5980807,
+        "friends_count": 24,
+        "listed_count": 13072,
+        "created_at": "Tue Jan 15 20:03:17 +0000 2013",
+        "favourites_count": 22,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 4031,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0084B4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/766168824/6d7e9bac6f5904ab0843bd1e9d935695.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/766168824/6d7e9bac6f5904ab0843bd1e9d935695.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745303772268793857/6cYR4Fix_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745303772268793857/6cYR4Fix_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093090866/1476297888",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2508,
+      "favorite_count": 7754,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2508,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 31 22:09:10 +0000 2016",
+    "id": 793213251077103600,
+    "id_str": "793213251077103617",
+    "text": "Lions and Tiggers and bears! Oh my! #HappyHalloween https://t.co/iU4fjBhi0Y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HappyHalloween",
+          "indices": [
+            36,
+            51
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 793213157590184000,
+          "id_str": "793213157590183936",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwIPKglUMAAxcjk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwIPKglUMAAxcjk.jpg",
+          "url": "https://t.co/iU4fjBhi0Y",
+          "display_url": "pic.twitter.com/iU4fjBhi0Y",
+          "expanded_url": "http://twitter.com/BarackObama/status/793213251077103617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 793213157590184000,
+          "id_str": "793213157590183936",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwIPKglUMAAxcjk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwIPKglUMAAxcjk.jpg",
+          "url": "https://t.co/iU4fjBhi0Y",
+          "display_url": "pic.twitter.com/iU4fjBhi0Y",
+          "expanded_url": "http://twitter.com/BarackObama/status/793213251077103617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5308,
+    "favorite_count": 22562,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 31 20:12:07 +0000 2016",
+    "id": 793183793993519100,
+    "id_str": "793183793993519104",
+    "text": "Usted y su familia merecen la tranquilidad de saber que están cubiertos. El mercado de seguros abre mañana. https://t.co/9iRCkLRGZD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 793183739748556800,
+          "id_str": "793183739748556800",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwH0aKlUIAAWDRQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwH0aKlUIAAWDRQ.jpg",
+          "url": "https://t.co/9iRCkLRGZD",
+          "display_url": "pic.twitter.com/9iRCkLRGZD",
+          "expanded_url": "https://twitter.com/BarackObama/status/793183793993519104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 793183739748556800,
+          "id_str": "793183739748556800",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/CwH0aKlUIAAWDRQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CwH0aKlUIAAWDRQ.jpg",
+          "url": "https://t.co/9iRCkLRGZD",
+          "display_url": "pic.twitter.com/9iRCkLRGZD",
+          "expanded_url": "https://twitter.com/BarackObama/status/793183793993519104/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 560,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 620,
+    "favorite_count": 2547,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "es"
+  },
+  {
+    "created_at": "Mon Oct 31 18:08:56 +0000 2016",
+    "id": 793152790881112000,
+    "id_str": "793152790881112064",
+    "text": "Speak up in support of quality, affordable health care for all. https://t.co/rGsSguMxvj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rGsSguMxvj",
+          "expanded_url": "http://ofa.bo/2f5XyoV",
+          "display_url": "ofa.bo/2f5XyoV",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 583,
+    "favorite_count": 2367,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 31 17:00:21 +0000 2016",
+    "id": 793135531471233000,
+    "id_str": "793135531471233024",
+    "text": "There's nothing to be scared of when searching for health insurance. Three in four people can #GetCovered for less… https://t.co/BUmnRO9B3E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GetCovered",
+          "indices": [
+            94,
+            105
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BUmnRO9B3E",
+          "expanded_url": "https://twitter.com/i/web/status/793135531471233024",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 813286,
+      "id_str": "813286",
+      "name": "Barack Obama",
+      "screen_name": "BarackObama",
+      "location": "Washington, DC",
+      "description": "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.",
+      "url": "http://t.co/O5Woad92z1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/O5Woad92z1",
+              "expanded_url": "http://www.barackobama.com",
+              "display_url": "barackobama.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 79557156,
+      "friends_count": 633156,
+      "listed_count": 215934,
+      "created_at": "Mon Mar 05 22:08:25 +0000 2007",
+      "favourites_count": 10,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 15432,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "77B0DC",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/451819093436268544/kLbRvwBg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1476975868",
+      "profile_link_color": "2574AD",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C2E0F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1320,
+    "favorite_count": 5127,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

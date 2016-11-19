@@ -33,7 +33,7 @@ describe('The application', () => {
       assertStatusOfEndpoint(endpoint, status, done);
     };
 
-    checkRequestGivesStatus('/foo', 404);
+    checkRequestGivesStatus('/foo/bar?q=bax', 404);
   });
 
   it('should be able to serve static files correctly', done => {
