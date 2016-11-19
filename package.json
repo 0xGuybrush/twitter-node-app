@@ -22,7 +22,8 @@
   "homepage": "https://github.com/another-dave/twitter-node-app#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "express3-handlebars": "^0.5.2"
+    "express3-handlebars": "^0.5.2",
+    "twitter": "^1.4.0"
   },
   "devDependencies": {
     "eslint": "^3.10.2",
