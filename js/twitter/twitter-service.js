@@ -42,7 +42,12 @@ module.exports = class TwitterService {
   }
 
   _formatResponse(rawTweets) {
-    const filteredTweet = tweet => ({text: tweet.text});
+    const filteredTweet = tweet => ({
+      text: tweet.text,
+      time: tweet.created_at,
+      retweeted: tweet.retweet_count,
+      favourited: tweet.favorite_count
+    });
 
     if (!Array.isArray(rawTweets)) {
         return Promise.reject(new Error('Invalid JSON response'));
