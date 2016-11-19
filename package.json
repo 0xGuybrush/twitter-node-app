@@ -1,0 +1,35 @@
+{
+  "name": "twitter-node-app",
+  "version": "1.0.0",
+  "description": "Sample application to return tweets using the Twitter API",
+  "main": "js/index.js",
+  "scripts": {
+    "start": "npm test && npm run lint && npm run compile && node js/index.js",
+    "quick-start": "node js/index.js",
+    "test": "./node_modules/.bin/mocha js/test/",
+    "compile": "rm -rf ./assets/css && node-sass --include-path scss scss/main.scss assets/css/main.css",
+    "lint": "./node_modules/.bin/eslint js && ./node_modules/.bin/sass-lint --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/another-dave/twitter-node-app.git"
+  },
+  "author": "Dave Moloney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/another-dave/twitter-node-app/issues"
+  },
+  "homepage": "https://github.com/another-dave/twitter-node-app#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-google": "^0.7.0",
+    "mocha": "^3.1.2",
+    "node-sass": "^3.13.0",
+    "sass-lint": "^1.10.2",
+    "supertest": "^2.0.1"
+  }
+}
