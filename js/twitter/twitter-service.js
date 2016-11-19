@@ -21,9 +21,12 @@ module.exports = class TwitterService {
   }
 
   getTweets(username) {
-    return this._isValidUsername(username)
+    const getRawTweets = this._isValidUsername(username)
             ? this._retrieveFromTwitter(username)
             : Promise.reject(new Error('Provide a valid username'));
+
+    return getRawTweets
+             .then(this._formatResponse);
   }
 
   _retrieveFromTwitter(username) {
@@ -31,11 +34,25 @@ module.exports = class TwitterService {
     const endpoint = 'statuses/user_timeline';
     return new Promise((resolve, reject) => {
         this.client.get(endpoint, params, (error, tweets, response) => {
-        console.log(JSON.stringify(tweets));
+        //console.log(JSON.stringify(tweets));
           return error
                    ? reject(error)
                    : resolve(tweets);
         });
+    });
+  }
+
+  _formatResponse(jsonData) {
+    const filteredTweet = tweet => ({ text: tweet.text });
+    const rawTweets = JSON.parse(jsonData);
+
+    if (!Array.isArray(rawTweets)) {
+        return Promise.reject(new Error('Invalid JSON response'));
+    }
+
+    return new Promise((resolve, reject) => {
+      const formattedTweets = rawTweets.map(filteredTweet);
+      return resolve(formattedTweets);
     });
   }
 
