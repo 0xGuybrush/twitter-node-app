@@ -34,7 +34,6 @@ module.exports = class TwitterService {
     const endpoint = 'statuses/user_timeline';
     return new Promise((resolve, reject) => {
         this.client.get(endpoint, params, (error, tweets, response) => {
-        //console.log(JSON.stringify(tweets));
           return error
                    ? reject(error)
                    : resolve(tweets);
@@ -42,9 +41,8 @@ module.exports = class TwitterService {
     });
   }
 
-  _formatResponse(jsonData) {
-    const filteredTweet = tweet => ({ text: tweet.text });
-    const rawTweets = JSON.parse(jsonData);
+  _formatResponse(rawTweets) {
+    const filteredTweet = tweet => ({text: tweet.text});
 
     if (!Array.isArray(rawTweets)) {
         return Promise.reject(new Error('Invalid JSON response'));
@@ -58,7 +56,7 @@ module.exports = class TwitterService {
 
   _isValidUsername(username) {
     // TODO: Consider wrapping this in an immediately resolving promise to
-    //       make parent function a more readable chain of events.
+    // make parent function a more readable chain of events.
     const validUsernameFormat = /^[A-Za-z0-9_]{1,15}$/;
     return validUsernameFormat.test(username);
   }

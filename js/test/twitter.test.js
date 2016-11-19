@@ -3,13 +3,13 @@ const TwitterService    = require('../twitter/twitter-service');
 const fileSystem	= require('fs');
 
 function createStringFromFile(fileName) {
-    const sampleFilesDirectory = './js/test/sample-files/';
-    return fileSystem.readFileSync(sampleFilesDirectory + fileName,'UTF-8');
+    const path = `./js/test/sample-files/${fileName}`;
+    const rawFile = fileSystem.readFileSync(path, 'UTF-8');
+    return JSON.parse(rawFile);
 }
 
 const mockTwitterClient = {
   get: (endpoint, parameters, callback) => {
-    const sampleFilesDirectory = './js/test/sample-files/';
     const tweets = createStringFromFile('raw-twitter-api-response.json');
     const error = null;
     const response = null;
@@ -19,14 +19,16 @@ const mockTwitterClient = {
 };
 
 function checkReturnedValue(actualValue, expectedValue) {
-  assert.deepEqual(actualValue, JSON.parse(expectedValue));
+  assert.deepEqual(actualValue, expectedValue);
 }
 
 describe('The Twitter service', () => {
-  const twitter                = new TwitterService(mockTwitterClient);
+  const twitter = new TwitterService(mockTwitterClient);
 
   it('should return a promise of some tweets', done => {
-    const expectedValue  = createStringFromFile('expected-formatted-response.json');
+    const expectedValue  = createStringFromFile(
+        'expected-formatted-response.json'
+    );
     const checkValue = actualValue => {
       checkReturnedValue(actualValue, expectedValue);
       done();
