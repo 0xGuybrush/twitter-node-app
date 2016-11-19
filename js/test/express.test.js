@@ -25,7 +25,7 @@ describe('The application', () => {
       assertBodyOfEndpoint(endpoint, result, done);
     };
 
-    checkRequestGivesBody('/', 'OK');
+    checkRequestGivesBody('/status', 'OK');
   });
 
   it('should return a 404 statys for endpoints not configured', done => {

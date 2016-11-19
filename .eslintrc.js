@@ -5,6 +5,7 @@ module.exports = {
     },
     "rules": {
         "arrow-parens": ["error", "as-needed"],
+        "comma-dangle": ["error", "never"],
         "no-multi-spaces": [
             "error",
             {
