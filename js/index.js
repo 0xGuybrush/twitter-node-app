@@ -21,7 +21,10 @@ app.get('/', (request, response) => {
 app.get('/:username', (request, response) => {
   // TODO: Choose an appropriate status code for error state
   const username   = request.params['username'];
-  const showTweets = tweets => response.render('tweets', {'tweets': tweets});
+  const showTweets = tweets => response.render('tweets', {
+    'username': username,
+    'tweets': tweets
+  });
   const showError  = error => {
     console.error(error);
     response.render('error');
