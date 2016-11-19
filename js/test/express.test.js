@@ -20,7 +20,7 @@ function assertStatusOfEndpoint(endpoint, expectedStatus, done) {
 }
 
 describe('The application', () => {
-  it('should respond successfully for configured', done => {
+  it('should respond successfully for rendered endpoints', done => {
     const checkRequestGivesBody = (endpoint, result) => {
       assertBodyOfEndpoint(endpoint, result, done);
     };
@@ -34,5 +34,15 @@ describe('The application', () => {
     };
 
     checkRequestGivesStatus('/foo', 404);
+  });
+
+  it('should be able to serve static files correctly', done => {
+    const checkRequestGivesBody = (endpoint, result) => {
+      assertBodyOfEndpoint(endpoint, result, done);
+    };
+
+    const expectedResponse = 'Author: Dave Moloney\n';
+
+    checkRequestGivesBody('/humans.txt', expectedResponse);
   });
 });
