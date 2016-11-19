@@ -1,0 +1,16 @@
+<h1>Latest tweets for {{screenName}}</h1>
+{{#if tweets}}
+<ul>
+	{{#tweets}}
+	<li>
+		<h2>
+			{{text}}
+		</h2>
+		<h3><a href="https://twitter.com/{{user.screen_name}}">@{{user.screen_name}}</a></h3>
+		<p><img src="{{user.profile_image_url}}" alt="{{user.name}}" width="48px" height="48px"/></p>
+		<p><em>{{created_at}}</em></p>
+		<p>Retweets: {{retweet_count}}, Favourites: {{favorite_count}}</p>
+   	</li>
+	{{/tweets}}
+</ul>
+{{/if}}
