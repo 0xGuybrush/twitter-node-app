@@ -2,9 +2,10 @@
   "name": "twitter-node-app",
   "version": "1.0.0",
   "description": "Sample application to return tweets using the Twitter API",
-  "main": "index.js",
+  "main": "js/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node js/index.js",
+    "lint": "./node_modules/.bin/eslint js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/another-dave/twitter-node-app/issues"
   },
-  "homepage": "https://github.com/another-dave/twitter-node-app#readme"
+  "homepage": "https://github.com/another-dave/twitter-node-app#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-google": "^0.7.0"
+  }
 }
