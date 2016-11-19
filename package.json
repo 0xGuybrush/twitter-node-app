@@ -19,10 +19,12 @@
   },
   "homepage": "https://github.com/another-dave/twitter-node-app#readme",
   "dependencies": {
+    "express": "^4.14.0"
   },
   "devDependencies": {
     "eslint": "^3.10.2",
     "eslint-config-google": "^0.7.0",
-    "mocha": "^3.1.2"
+    "mocha": "^3.1.2",
+    "supertest": "^2.0.1"
   }
 }
