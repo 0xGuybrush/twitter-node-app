@@ -1,13 +1,16 @@
+<h1 class="title">Showing tweets for @{{username}}</h1>
 {{#if tweets}}
 <ul class="container">
 	{{#tweets}}
 	<li class="item">
-	    <a href="{{link}}">
+	    <a href="{{link}}" class="item__link">
 		    <h2 class="item__title">
 			    {{text}}
 		    </h2>
-		    <time class="item__time">{{time}}</time>
-		    <p>Retweets: {{retweeted}}, Favourites: {{favourited}}</p>
+		    <div class="meta">
+		        <time class="meta__time">{{time}}</time>
+		        <p>Retweets: {{retweeted}}, Favourites: {{favourited}}</p>
+		    </div>
         </a>
    	</li>
 	{{/tweets}}

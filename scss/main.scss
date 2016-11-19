@@ -1,42 +1,134 @@
 @import 'partials/colours';
+@import 'partials/layout';
+@import 'mixins/breakpoints';
 
 * {
-    font-family: Arial, sans-serif;
-    font-size: 1rem;
-    margin: 0;
-    padding: 0;
+  margin: $none;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  padding: $none;
 }
 
 body {
-    color: $text;
-    font-size: 16px;
+  @include for-breakpoint(mobile) {
+    font-size: 2em;
+  }
+
+  color: $text;
+  font-size: 16px;
+
+}
+
+.title {
+  background-color: $text;
+  color: $heading-text;
+  font-weight: normal;
+  padding: 2em;
+  text-align: center;
+}
+
+.help {
+
+  @include for-breakpoint(mobile) {
+    padding: 0.5em;
+    font-size: 0.75em;
+  }
+
+  padding: 3em 6em;
+
+  &__copy {
+    margin-bottom: $standard;
+  }
+
+  &__subheading {
+    margin-top: 2em;
+  }
+
+  .item {
+    min-height: 0;
+  }
+
+  &__link {
+    font-weight: bold;
+    text-decoration: none;
+    color: $highlight;
+  }
+
+  &__link:hover {
+    font-weight: bold;
+    text-decoration: underline;
+  }
 }
 
 .container {
-    font-size: 1rem;
-    list-style: none;
-    padding: 20px;
-    width: 100%;
+  @include for-breakpoint(mobile) {
+    padding: 0;
+  }
+
+  @include for-breakpoint(tablet) {
+    padding: 0 1em;
+  }
+
+  margin: $centred-with-gulley;
+  list-style: none;
+  padding: 0 5em;
+  width: 100%;
 }
 
 .item {
-    float: left;
-    font-size: 1rem;
-    padding: 10px;
-    width: 20%;
-    word-wrap: break-word;
+  @include for-breakpoint(tablet) {
+    margin: $tablet-item;
+    width: 26%;
+    border: 1px solid $light-grey;
+  }
 
-    &:hover {
-        background: aliceblue;
+
+  @include for-breakpoint(mobile) {
+    position: inherit;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $medium-grey;
+    min-height: 0;
+    width: 100%;
+  }
+  float: left;
+  min-height: 11em;
+  padding: 10px;
+  position: relative;
+  width: 20%;
+  word-wrap: break-word;
+  transition: background-color 0.5s ease;
+
+  &__link {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  &:hover {
+    background: $hover;
+  }
+
+  &__title {
+    @include for-breakpoint(mobile) {
+      padding: 0 5px;
     }
 
-    &__title {
-        margin-bottom: 0.875rem;
+    margin-bottom: $standard;
+  }
+
+  & .meta {
+    @include for-breakpoint(mobile) {
+      position: inherit;
     }
+
+    position: absolute;
+    bottom: 1em;
 
     &__time {
-        display: block;
-        font-size: 0.875em;
-        margin-bottom: 0.5em;
+      display: block;
+      font-size: 0.875em;
+      margin-bottom: $small;
     }
+  }
 }
+
