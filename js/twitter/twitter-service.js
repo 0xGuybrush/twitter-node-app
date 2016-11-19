@@ -42,8 +42,21 @@ module.exports = class TwitterService {
   }
 
   _formatResponse(rawTweets) {
+    /*
+     * TODO: Link is cheating here, as depending on a redirect
+     *  by twitter when using a correct ID string, but with a dummy
+     * original poster (using 'get' below).
+     *
+     * The reason that this is in place is because the person's tweets
+     * we're viewing mightn't provide the correct user ID if this was for
+     * a retweet.
+     *
+     * Should be refactored to pull the original ID and construct a URL
+     * that doesn't depend on a redirect by Twitter.
+     */
     const filteredTweet = tweet => ({
       text: tweet.text,
+      link: `https://twitter.com/get/status/${tweet.id_str}`,
       time: tweet.created_at,
       retweeted: tweet.retweet_count,
       favourited: tweet.favorite_count
